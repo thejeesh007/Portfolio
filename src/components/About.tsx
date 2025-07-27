@@ -23,6 +23,17 @@ const About = () => {
       title: 'AI & Machine Learning',
       description: 'Python, TensorFlow, Data Science',
     },
+
+    {
+      icon: Brain,
+      title: 'Languages',
+      description: 'Tamil, English, Telugu, Hindi',
+    },
+    {
+      icon: Database,
+      title: 'Certifications',
+      description: 'IBM Gen Ai, IBM Watsonx Ai',
+    },
   ];
 
   return (

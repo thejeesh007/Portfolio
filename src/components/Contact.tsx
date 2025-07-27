@@ -71,7 +71,7 @@ const Contact = () => {
           {/* Section Header */}
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
-              Get In <span className="bg-primary-gradient bg-clip-text text-transparent">Touch</span>
+              Lets <span className="bg-primary-gradient bg-clip-text text-transparent">Talk</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               I'm always open to discussing new opportunities, projects, or just having a chat about technology and Football.

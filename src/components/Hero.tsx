@@ -14,7 +14,7 @@ const Hero = () => {
   const downloadResume = () => {
     // Create a dummy resume PDF URL - in production, this would be your actual resume
     const link = document.createElement('a');
-    link.href = '/c:\Users\sange\Downloads\Thejeesh_resume.pdf'; // You'll need to add your actual resume PDF to the public folder
+    link.href = 'https://drive.google.com/file/d/1hJPskEFPIwcCzz-tsRrNI9GkLR5sGBN9/view?usp=sharing'; // You'll need to add your actual resume PDF to the public folder
     link.download = 'Thejeesh_Resume.pdf';
     document.body.appendChild(link);
     link.click();
