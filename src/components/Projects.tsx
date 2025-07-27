@@ -20,6 +20,14 @@ const Projects = () => {
       featured: true,
     },
     {
+      title: 'Tamil text - Modernizer',
+      description: 'The Tamil Classical Text Modernizer is an intelligent linguistic tool that automatically translates classical or literary Tamil into modern, easily understandable Tamil. ',
+      image: 'https://imgs.search.brave.com/kNJl1MhIGaNPKObt_8ifS2EAoOcALKZ3DVFV7Sydlmc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJpdGFubmljYS5j/b20vMjUvMTQ2OTI1/LTA1MC01MzdGRUU2/Ny9pbnNjcmlwdGlv/bi1UYW1pbC1Ccmlo/YWRpc3ZhcmEtdGVt/cGxlLVRoYW5qYXZ1/ci1JbmRpYS5qcGc_/dz00MDAmaD0zMDAm/Yz1jcm9w',
+      technologies: ['Python', 'Open Ai',],
+      githubUrl: 'https://github.com/thejeesh007/Tamil-sentence-modernizer',
+      featured: true,
+    },
+    {
       title: 'Adaptive Video Streaming',
       description: 'Developed a Java-based adaptive video streaming system with a client-server-relay model.Used FFmpeg for frame-level resizing, ensuring low latency deliver.',
       image: 'https://imgs.search.brave.com/3NoQDclRlfAjisLoi7rlpcOaTAK75cnDoLATi5tnwKs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDgv/MzUzLzA0NS9zbWFs/bC9zdHJlYW1pbmct/b25saW5lLXdhdGNo/aW5nLXZpZGVvLW9u/LWludGVybmV0LWhv/bG9ncmFtLWNvbmNl/cHQtcGhvdG8uanBn',

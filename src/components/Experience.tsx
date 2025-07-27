@@ -27,6 +27,17 @@ const Experience = () => {
         'My role involved wireframing, prototyping, and ensuring design consistency across web and mobile applications. Beyond design, I played a key role in organizing and conducting several technical and creative events, collaborating with cross-functional teams to ensure smooth execution.',
       ],
       technologies: ['Figma', 'Adobe',],
+    },
+    {
+      title: 'Co-Founder & Full Stack Developer',
+      company: 'Vioravisuals.com',
+      duration: 'May 2024 - Present',
+      location: 'Remote',
+      description: [
+        'I am an one of the Co-Founder of Vioravisuals, where I contributed as a Website Developer.',
+        'I also worked as a social media manager for the past two months.',
+      ],
+      technologies: ['Entrepreneurship',],
     }
   ];
 
